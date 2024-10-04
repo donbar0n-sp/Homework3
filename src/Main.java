@@ -3,17 +3,17 @@ public class Main {
 
         //task1
         byte byteMax = 127;
-        System.out.println(byteMax);
+        System.out.println("Значение переменной byteMax с типом byte" +  " равно " + byteMax);
         short shortMax = 32767;
-        System.out.println(shortMax);
+        System.out.println("Значение переменной shortMax с типом short" +  " равно " + shortMax);
         int intMax = 2147483647;
-        System.out.println(intMax);
+        System.out.println("Значение переменной intMax с типом int" +  " равно " + intMax);
         long longMax = 9223372036854775807L;
-        System.out.println(longMax);
+        System.out.println("Значение переменной longMax с типом long" +  " равно " + longMax);
         float floatMax = 0.1234567f;
-        System.out.println(floatMax);
+        System.out.println("Значение переменной floatMax с типом float" +  " равно " + floatMax);
         double doubleMax = 0.1234567890123456;
-        System.out.println(doubleMax);
+        System.out.println("Значение переменной doubleMax с типом double" +  " равно " + doubleMax);
 
         //task2
         float n1 = 27.12f;
